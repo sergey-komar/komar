@@ -433,6 +433,8 @@ body{
     font-size: 70px;
     text-align: center;
     overflow-y: hidden;
+	padding-top: 70px;
+ margin-bottom: 5px;
     }  
 }
 
