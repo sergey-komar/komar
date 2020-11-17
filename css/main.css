@@ -285,7 +285,7 @@ body{
     height: 300px;
     border-radius: 40px;
     overflow: hidden;
-    border: 10px solid  #07728a;
+    border: 3px solid  #07728a;
      background: radial-gradient(25.3% 57.25% at 50% 50%, rgba(80, 152, 190, 0.1) 0%, rgba(52, 113, 146, 0.06) 100%), url("./../img/pexels-photo-1283219.jpeg");
      
 }
